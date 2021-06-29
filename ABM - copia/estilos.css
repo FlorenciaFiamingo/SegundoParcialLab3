@@ -1,0 +1,182 @@
+table{
+    border-collapse: collapse;
+    border-radius: 5%;
+    width: 100%;
+}
+thead{
+    background-color: rgb(192, 21, 21);
+    color: white;
+    text-align: left;
+}
+th, td{
+    padding: 0.5%;
+    text-align: left;
+}
+
+table, th, td{
+    border:1px solid black;
+}
+
+form{
+    background-color: whitesmoke;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 5%;
+    border-radius: 3%;
+    top: 1%;
+    left: 12%;
+    right: 1%;
+    bottom: 1%;
+
+}
+
+label{
+    font-weight: bold;
+    width: 80%;
+}
+
+.oculto{
+    display: none;
+}
+
+.ocultoDiv{
+    display: none;
+}
+
+.visible{
+    display: block;
+}
+
+#btnForm{
+    border-radius: 40%;
+    background-color: limegreen;
+    color: linen;
+    position: relative;
+    float:right;
+    border-radius: 100%;
+    padding: 1%;
+    border-collapse: collapse;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+#btnSubmit, #btnEliminar{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+#btnSubmit{
+    background-color: limegreen;
+    color: seashell;
+}
+
+#btnEliminar{
+    background-color: red;
+    color: seashell;
+}
+
+tbody tr:nth-child(odd){
+    background: #FFFFFF;
+    color: black;
+}
+ 
+tbody tr:nth-child(even){
+    background:rgba(255, 0, 0, 0.534);
+    color: whitesmoke;
+}
+#spinner-container{
+    padding-left: 40%;
+}
+
+#spinner-container img{
+    width: 30%;
+}
+
+header{
+    background-color: white;
+}
+nav a{
+    text-decoration:none;
+    color: inherit;
+    font-size: 14px;
+}
+
+nav li{
+    display:inline-block;
+    padding:5px 10px;
+    background-color:#000;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+    }
+
+    header nav{
+        position: relative;
+        float:right;
+        padding: 5%;
+        border-collapse: collapse;
+    
+    }
+    footer nav{
+        position: relative;
+        float:left;
+        padding: 5%;
+        border-collapse: collapse;
+    
+    }
+
+    footer p{
+        position:relative;
+        float: right;
+        color: whitesmoke;
+        padding: 5%;
+        border-collapse: collapse;
+        }
+
+    h1{
+        padding-left: 40%;
+        color: whitesmoke;
+    }
+
+    body{
+        background-color: black;
+    }
+
+/*#autoBanner{
+    width: 100%;
+    height: 10%;
+}*/
+
+.campos label{
+    color: white;
+}
+/*
+input{
+    padding-right: 80%;
+}
+*/
+#autoBanner{
+    width: 100%;
+    height: 10%;
+}
+
+
+@media(min-with:600px) and (max-with:800px){
+    
+    form{
+        background-color: whitesmoke;
+        margin-left: 30%;
+        margin-right: 30%;
+        padding: 5%;
+        border-radius: 3%;
+        top: 1%;
+        left: 12%;
+        right: 1%;
+        bottom: 1%;
+    
+    }
+}

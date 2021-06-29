@@ -1,0 +1,14 @@
+npm install json-server
+json-server
+--npm start
+json-server -w -d 2000
+json-server -w -d 2000 -p 5000 ./db/db.json
+
+
+npm init y
+node index.js
+npm start
+
+pasa actualizar cambios se debe bajar y subir el servidor -> live server para node 
+npm install nodemon -D
+npm run dev

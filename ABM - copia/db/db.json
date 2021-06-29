@@ -1,0 +1,64 @@
+{
+  "datos": [
+    {
+      "id": 1624589527342,
+      "titulo": "Titulo",
+      "transaccion": "venta",
+      "descripcion": "Vendo Ford Focus",
+      "precio": "20000000",
+      "puertas": "4",
+      "kilometros": "74000",
+      "potencia": "1200"
+    },
+    {
+      "id": 1624591126847,
+      "titulo": "Anuncio",
+      "transaccion": "alquiler",
+      "descripcion": "Prueba",
+      "precio": "10000",
+      "puertas": "3",
+      "kilometros": "10001",
+      "potencia": "10000"
+    },
+    {
+      "id": 1624591219853,
+      "titulo": "Titulo",
+      "transaccion": "venta",
+      "descripcion": "Vendo ford focus",
+      "precio": "1",
+      "puertas": "2",
+      "kilometros": "1",
+      "potencia": "1"
+    },
+    {
+      "id": 1624591265963,
+      "titulo": "Mi titulo",
+      "transaccion": "alquiler",
+      "descripcion": "Vendo ford fiesta",
+      "precio": "150000",
+      "puertas": "5",
+      "kilometros": "1200",
+      "potencia": "10"
+    },
+    {
+      "id": 1624591306875,
+      "titulo": "Flor",
+      "transaccion": "venta",
+      "descripcion": "Flor",
+      "precio": "12",
+      "puertas": "2",
+      "kilometros": "12",
+      "potencia": "4"
+    },
+    {
+      "id": 1625004257128,
+      "titulo": "Examen",
+      "transaccion": "venta",
+      "descripcion": "prueba ",
+      "precio": "12000",
+      "puertas": "3",
+      "kilometros": "120000",
+      "potencia": "1200"
+    }
+  ]
+}
